@@ -1,3 +1,23 @@
+## Este proyecto nos permite ingresar con nuestro usuario de Spotify o de no tener uno, crearlo. Una vez iniciada la sesión, recuerda el usuario para que en el caso de cerrar la página o actualizarla, no se pierda la información y no debamos hacer el proceso de login nuevamente. Esta conectado a la Api de Spotify y permite ver las playlist reales del usuario junto con sus canciones. 
+
+## Tecs utilizadas: 
+### Styled Componentes
+### React
+### Redux 
+### Material-ui 
+### consumiendo api de spotify
+
+
+![Captura de pantalla (100)](https://user-images.githubusercontent.com/97048366/204675304-c28b9c32-2ebb-41aa-a57f-dc4464ec4b18.png)
+
+![Captura de pantalla (101)](https://user-images.githubusercontent.com/97048366/204675324-09d3e728-a3b6-4fb0-a48d-7fa376608147.png)
+
+![Captura de pantalla (104)](https://user-images.githubusercontent.com/97048366/204675337-d3214419-9a61-4ec5-918f-7cc69b1f2f81.png)
+
+![Captura de pantalla (105)](https://user-images.githubusercontent.com/97048366/204675353-be4e6d8f-ff6c-4733-adbf-8997a94b0393.png)
+
+![Captura de pantalla (106)](https://user-images.githubusercontent.com/97048366/204675361-0f39f6d9-1496-47a7-8347-7ef6d7ebe60f.png)
+
 Tecs utilizadas: 
 styled componentes
 react
