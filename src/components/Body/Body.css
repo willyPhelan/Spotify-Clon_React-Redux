@@ -1,0 +1,71 @@
+.inp {
+    width: 100px ;
+    
+ }
+
+.h11 { 
+    font-size: 65px ;
+
+}
+
+ .hr{ color: gray ; 
+} 
+
+.playButton {
+    color: #1ed760 ;
+    font-size: 60px;
+    margin: 20px 0 20px 50px ;
+    transition: transform 200ms ease-in-out !important;
+}
+
+.heart {
+    color: #1ed760 ; 
+    font-size: 40px;
+}
+
+.prev {
+    border: solid rgba(0, 0, 0, 0.459) 1px;
+    padding: 10px ;
+    border-radius: 100px;
+    margin-left: 20px ;
+    background-color: rgba(128, 128, 128, 0.226);
+}
+.prev:hover {
+    cursor: pointer ; 
+    background-color:rgba(85, 84, 84, 0.226);
+}
+.next {
+    border: solid rgba(0, 0, 0, 0.212) 1px;
+    padding: 10px ;
+    border-radius: 100px;
+    margin-left: 20px ;
+    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+.next:hover {
+    cursor: pointer ; 
+    background-color:rgba(85, 84, 84, 0.226);
+}
+
+.upg { 
+    border: 1px solid gray ;
+    border-radius: 20px ;
+    padding: 5px;
+    margin-right: 20px ;
+    font-size: 12px;
+
+}
+.upg:hover{ 
+    background-color: black;
+    cursor: pointer;
+}
+
+.puntos {
+    color: gray; 
+    font-size: 40px;
+}
+.playButton:hover {
+    transform: scale(1.1) !important ;
+    cursor: pointer
+}

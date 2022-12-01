@@ -1,0 +1,15 @@
+.ic {
+    
+    font-size: 25px;
+    transition: transform 200ms ease-in-out !important ;
+}
+
+.shuffle, .repeat {
+   color: #1ed760 ;
+   transition: transform 200ms ease-in-out !important ; 
+}
+
+.shuffle:hover,.repeat:hover, .ic:hover {
+
+
+transform: scale(1.2) !important;}
