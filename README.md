@@ -14,9 +14,10 @@
 
 ![Captura de pantalla (104)](https://user-images.githubusercontent.com/97048366/204675337-d3214419-9a61-4ec5-918f-7cc69b1f2f81.png)
 
-![Captura de pantalla (105)](https://user-images.githubusercontent.com/97048366/204675353-be4e6d8f-ff6c-4733-adbf-8997a94b0393.png)
+![Captura de pantalla (108)](https://user-images.githubusercontent.com/97048366/204938773-188073b4-5a31-4151-887c-d97d35dadafa.png)
 
-![Captura de pantalla (106)](https://user-images.githubusercontent.com/97048366/204675361-0f39f6d9-1496-47a7-8347-7ef6d7ebe60f.png)
+![Captura de pantalla (109)](https://user-images.githubusercontent.com/97048366/204938836-5f78032f-37a8-4e20-bb36-39bf1174ef92.png)
+
 
 Tecs utilizadas: 
 styled componentes
